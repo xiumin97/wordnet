@@ -152,7 +152,7 @@ mammal_list=get_common_hyponyms('mammal')
 arthropod_list=get_common_hyponyms('arthropod')
 cniarian_list=get_common_hyponyms('cnidarian')
 
-! pip install anytree
+ pip install anytree
 
 from anytree import Node, RenderTree
 entity = Node("entity")
