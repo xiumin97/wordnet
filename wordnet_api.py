@@ -11,7 +11,7 @@ Preparing the Dictionary of 1000 Imagenet Classes
 
 import copy
 
-! git clone https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a '/files/imagenet_classes.txt'
+ git clone https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a '/files/imagenet_classes.txt'
 
 with open('/files/imagenet_classes.txt/imagenet1000_clsidx_to_labels.txt', 'r') as classes:
     imagenet_classes = classes.read()
