@@ -1,200 +1,200 @@
-   'mammal' ;   'living_thing' ;   'chordate' ;   'egyptian_cat'  ;
-   'artifact' ;   'instrumentality' ;   'reel'  ; 
-   'artifact' ; 'instrumentality' ;   'volleyball'  ;
-   'artifact' ;   'instrumentality' ;   'rocking_chair'  ;
-   'natural_object' ;   'produce' ;   'plant_part' ;   'lemon'  ;
-   'chordate' ;   'living_thing' ;   'bullfrog'  ;
-   'artifact' ;   'instrumentality' ;   'basketball'  ;
-   'geological_formation' ;  'cliff'  ;
-   'beverage' ;  'food' ;  'espresso'  ;
-   'artifact' ;   'instrumentality' ;   'plunger'  ;
-   'artifact' ;   'instrumentality' ;   'parking_meter'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'german_shepherd'  ;
-   'artifact' ;   'instrumentality' ;   'dining_table'  ;
-   'arthropod' ;   'living_thing' ;   'monarch'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'brown_bear'  ;
-   'artifact' ;   'instrumentality' ;   'school_bus'  ;
-   'nutriment' ;  'food' ;  'pizza'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'guinea_pig'  ;
-   'artifact' ;  'covering' ;  'umbrella'  ;
-   'artifact' ;   'instrumentality' ;   'organ.n.05'  ;
-   'artifact' ;   'instrumentality' ;   'oboe'  ;
-   'artifact' ;   'instrumentality' ;   'maypole'  ;
-   'living_thing' ;   'chordate' ;   'fish' ;   'goldfish'  ;
-   'nutriment' ;  'food' ;  'potpie'  ;
-   'artifact' ;   'instrumentality' ;   'hourglass'  ;
-   'geological_formation' ;  'seashore'  ;
-   'artifact' ;   'instrumentality';   'computer_keyboard'  ;
-   'mammal' ;   'living_thing';   'chordate' ;   'arabian_camel'  ;
-   'nutriment' ;  'food' ;  'ice_cream'  ;
-   'artifact' ;   'instrumentality' ;   'nail'  ;
-   'artifact' ;   'instrumentality' ;   'space_heater'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'cardigan'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'baboon'  ;
-   'living_thing' ;  'mollusk' ;  'snail'  ;
-   'geological_formation' ;  'coral_reef'  ;
-   'chordate' ;   'living_thing' ;   'albatross'  ;
-   'artifact' ;   'instrumentality' ;   'spider_web'  ;
-   'living_thing' ;   'echinoderm' ;   'sea_cucumber'  ;
-   'artifact' ;   'instrumentality' ;   'backpack'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'labrador_retriever'  ;
-   'food' ;  'pretzel'  ;
-   'chordate' ;   'living_thing' ;   'king_penguin'  ;
-   'arthropod' ;   'living_thing' ;   'sulphur_butterfly'  ;
-   'arthropod' ;   'living_thing' ;   'tarantula'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'lesser_panda'  ;
-   'artifact' ;   'instrumentality' ;   'pop_bottle'  ;
-   'natural_object' ;   'produce' ;   'plant_part' ;   'banana'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'sock'  ;
-   'arthropod' ;   'living_thing' ;   'cockroach'  ;
-   'artifact' ;   'instrumentality' ;   'projectile'  ;
-   'artifact' ;   'instrumentality' ;   'beer_bottle'  ;
-   'arthropod' ;   'living_thing' ;   'mantis'  ;
-   'artifact' ;   'instrumentality' ;   'freight_car'  ;
-   'ingredient' ;  'food' ;  'guacamole'  ;
-   'artifact' ;   'instrumentality' ;   'remote_control'  ;
-   'chordate' ;   'living_thing' ;   'european_fire_salamander'  ;
-   'geological_formation' ;  'lakeside'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'chimpanzee'  ;
-   'artifact' ;   'instrumentality' ;   'pay-phone'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'fur_coat'  ;
-   'geological_formation' ;  'alp'  ;
-   'artifact' ;  'covering' ;  'lampshade'  ;
-   'artifact' ;   'instrumentality' ;   'torch'  ;
-   'artifact' ;   'instrumentality' ;   'abacus'  ;
-   'artifact' ;   'instrumentality' ;   'moving_van'  ;
-   'artifact' ;   'instrumentality' ;   'barrel'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'tabby'  ;
-   'chordate' ;  'living_thing' ;  'goose'  ;
-   'mammal' ;   'living_thing';   'chordate' ;   'koala'  ;
-   'artifact' ;   'instrumentality' ;   'bullet_train'  ;
-   'artifact' ;   'instrumentality' ;   'cd_player'  ;
-   'artifact' ;   'instrumentality' ;   'teapot'  ;
-   'artifact' ;  'covering' ;  'birdhouse'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'gazelle'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'academic_gown'  ;
-   'artifact' ;   'instrumentality' ;   'tractor'  ;
-   'arthropod' ;   'living_thing' ;   'ladybug'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'miniskirt'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'golden_retriever'  ;
-   'artifact' ;   'structure' ;   'triumphal_arch'  ;
-   'artifact' ;   'instrumentality' ;   'cannon'  ;
-   'artifact' ;   'instrumentality' ;   'neck_brace'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'sombrero'  ;
-   'artifact' ;  'covering' ;  'gasmask'  ;
-   'artifact' ;   'instrumentality' ;   'candle'  ;
-   'artifact' ;   'instrumentality' ;   'desk'  ;
-   'artifact' ;   'instrumentality' ;   'frying_pan'  ;
-   'arthropod' ;  'living_thing' ;  'bee'  ;
-   'artifact' ;  'structure' ;  'dam'  ;
-   'arthropod' ;   'living_thing' ;   'spiny_lobster'  ;
-   'artifact' ;   'instrumentality' ;   'police_van'  ;
-   'artifact' ;   'instrumentality' ;   'ipod'  ;
-   'artifact' ;   'instrumentality' ;   'punching_bag'  ;
-   'artifact' ;  'structure' ;  'beacon'  ;
-   'living_thing' ;   'coelenterate' ;   'jellyfish'  ;
-   'artifact' ;  'instrumentality' ;  'wok'  ;
-   'artifact' ;   'instrumentality' ;   'potter's_wheel'  ;
-   'artifact' ;   'footwear' ;   'covering' ;   'sandal'  ;
-   'artifact' ;   'instrumentality' ;   'pill_bottle'  ;
-   'artifact' ;   'structure' ;   'butcher_shop'  ;
-   'living_thing' ;  'mollusk' ;  'slug.n.07'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'hog'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'cougar'  ;
-   'artifact' ;   'instrumentality' ;   'crane.n.04'  ;
-   'artifact' ;   'covering';   'clothing' ;   'vestment'  ;
-   'arthropod' ;   'living_thing' ;   'dragonfly'  ;
-   'artifact' ;   'instrumentality' ;   'cash_machine'  ;
-   'produce' ;  'mushroom.n.05'  ;
-   'artifact' ;   'instrumentality' ;   'jinrikisha'  ;
-   'artifact' ;   'instrumentality' ;   'water_tower'  ;
-   'artifact' ;   'instrumentality' ;   'chest'  ;
-   'artifact' ;   'instrumentality' ;   'snorkel'  ;
-   'artifact' ;   'instrumentality' ;   'sunglasses'  ;
-   'arthropod' ;  'living_thing' ;  'fly'  ;
-   'artifact' ;   'instrumentality' ;   'limousine'  ;
-   'chordate' ;   'living_thing' ;   'black_stork'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'dugong'  ;
-   'artifact' ;   'instrumentality' ;   'sports_car'  ;
-   'artifact' ;   'instrumentality' ;   'water_jug'  ;
-   'artifact' ;   'structure' ;   'suspension_bridge'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'ox'  ;
-   'nutriment' ;  'food' ;  'ice_lolly'  ;
-   'artifact' ;  'structure' ;  'turnstile'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'christmas_stocking'  ;
-   'artifact' ;   'instrumentality' ;   'broom'  ;
-   'arthropod' ;   'living_thing' ;   'scorpion'  ;
-   'artifact' ;   'instrumentality' ;   'wooden_spoon'  ;
-   'artifact' ;   'structure' ;   'picket_fence'  ;
-   'artifact' ;   'instrumentality' ;   'rugby_ball'  ;
-   'artifact' ;   'instrumentality' ;   'sewing_machine'  ;
-   'artifact' ;   'structure' ;   'steel_arch_bridge'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'persian_cat'  ;
-   'artifact' ;  'refrigerator'  ;
-   'artifact' ;  'structure' ;  'barn'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'apron'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'yorkshire_terrier'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'swimming_trunks'  ;
-   'artifact' ;   'instrumentality' ;   'stopwatch'  ;
-   'artifact' ;   'instrumentality' ;   'lawn_mower'  ;
-   'artifact' ;  'covering' ;  'thatch.n.04'  ;
-   'artifact' ;  'structure' ;  'fountain'  ;
-   'arthropod' ;   'living_thing' ;   'black_widow'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'bikini'  ;
-   'nutriment' ;  'food' ;  'plate.n.08'  ;
-   'artifact' ;  'plaything' ;  'teddy'  ;
-   'artifact' ;   'structure' ;   'barbershop'  ;
-   'artifact' ;   'structure' ;   'confectionery'  ;
-   'artifact' ;   'instrumentality' ;   'beach_wagon'  ;
-   'artifact' ;   'structure' ;   'scoreboard'  ;
-   'natural_object' ;   'produce' ;   'plant_part' ;   'orange'  ;
-   'artifact' ;   'instrumentality' ;   'flagpole'  ;
-   'arthropod' ;   'living_thing' ;   'american_lobster'  ;
-   'artifact' ;   'instrumentality' ;   'trolleybus'  ;
-   'artifact' ;   'instrumentality' ;   'drumstick'  ;
-   'artifact' ;   'instrumentality' ;   'dumbbell'  ;
-   'artifact' ;  'structure' ;  'brass.n.07'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'bow_tie'  ;
-   'artifact' ;   'instrumentality' ;   'convertible'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'bighorn'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'orangutan'  ;
-   'living_thing' ;   'chordate' ;   'reptile' ;   'american_alligator'  ;
-   'arthropod' ;   'living_thing' ;   'centipede'  ;
-   'artifact' ;   'instrumentality' ;   'syringe'  ;
-   'artifact' ;   'instrumentality' ;   'go-kart'  ;
-   'living_thing' ;   'coelenterate' ;   'brain_coral'  ;
-   'living_thing' ;   'mollusk' ;   'sea_slug'  ;
-   'artifact' ;   'structure' ;   'cliff_dwelling'  ;
-   'produce' ;  'food' ;  'mashed_potato'  ;
-   'artifact' ;  'structure' ;  'viaduct'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'military_uniform'  ;
-   'natural_object' ;   'produce' ;   'plant_part' ;   'pomegranate'  ;
-   'artifact' ;   'instrumentality' ;   'chain'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'kimono'  ;
-   'artifact' ;   'instrumentality' ;   'product' ;   'comic_book'  ;
-   'arthropod' ;   'living_thing' ;   'trilobite'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'bison'  ;
-   'artifact' ;   'instrumentality' ;   'pole'  ;
-   'living_thing' ;   'chordate' ;   'reptile' ;   'boa_constrictor'  ;
-   'artifact' ;   'covering' ;   'clothing' ;   'poncho'  ;
-   'artifact' ;   'instrumentality' ;   'bathtub'  ;
-   'arthropod' ;   'living_thing' ;   'grasshopper'  ;
-   'arthropod' ;   'living_thing' ;   'walking_stick'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'chihuahua'  ;
-   'chordate' ;   'living_thing' ;   'tailed_frog'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'lion'  ;
-   'artifact' ;  'structure' ;  'altar'  ;
-   'artifact' ;  'structure' ;  'obelisk'  ;
-   'artifact' ;   'instrumentality' ;   'beaker'  ;
-   'produce' ;  'bell_pepper'  ;
-   'artifact' ;  'structure' ;  'bannister'  ;
-   'artifact' ;   'instrumentality' ;   'bucket'  ;
-   'artifact' ;   'instrumentality' ;   'magnetic_compass'  ;
-   'nutriment' ;  'food' ;  'meat_loaf'  ;
-   'artifact' ;   'instrumentality' ;   'gondola'  ;
-   'mammal' ;   'living_thing' ;   'chordate' ;   'standard_poodle'  ;
-   'natural_object' ;   'plant_part' ;   'acorn'  ;
-   'artifact' ;   'instrumentality' ;   'lifeboat'  ;
-   'artifact' ;   'instrumentality' ;   'binoculars'  ;
-   'produce' ;  'cauliflower'  ;
+   'mammal' ;   'living_thing' ;   'chordate' ;   'egyptian_cat'  
+   'artifact' ;   'instrumentality' ;   'reel'  
+   'artifact' ; 'instrumentality' ;   'volleyball' 
+   'artifact' ;   'instrumentality' ;   'rocking_chair'
+   'natural_object' ;   'produce' ;   'plant_part' ;   'lemon'
+   'chordate' ;   'living_thing' ;   'bullfrog'  
+   'artifact' ;   'instrumentality' ;   'basketball'  
+   'geological_formation' ;  'cliff'  
+   'beverage' ;  'food' ;  'espresso'  
+   'artifact' ;   'instrumentality' ;   'plunger'  
+   'artifact' ;   'instrumentality' ;   'parking_meter'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'german_shepherd'  
+   'artifact' ;   'instrumentality' ;   'dining_table'  
+   'arthropod' ;   'living_thing' ;   'monarch'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'brown_bear'  
+   'artifact' ;   'instrumentality' ;   'school_bus'  
+   'nutriment' ;  'food' ;  'pizza'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'guinea_pig'  
+   'artifact' ;  'covering' ;  'umbrella'  
+   'artifact' ;   'instrumentality' ;   'organ.n.05'  
+   'artifact' ;   'instrumentality' ;   'oboe'  
+   'artifact' ;   'instrumentality' ;   'maypole' 
+   'living_thing' ;   'chordate' ;   'fish' ;   'goldfish' 
+   'nutriment' ;  'food' ;  'potpie'  
+   'artifact' ;   'instrumentality' ;   'hourglass'  
+   'geological_formation' ;  'seashore'  
+   'artifact' ;   'instrumentality';   'computer_keyboard'  
+   'mammal' ;   'living_thing';   'chordate' ;   'arabian_camel'  
+   'nutriment' ;  'food' ;  'ice_cream'  
+   'artifact' ;   'instrumentality' ;   'nail'  
+   'artifact' ;   'instrumentality' ;   'space_heater'  
+   'artifact' ;   'covering' ;   'clothing' ;   'cardigan'
+   'mammal' ;   'living_thing' ;   'chordate' ;   'baboon'  
+   'living_thing' ;  'mollusk' ;  'snail'  
+   'geological_formation' ;  'coral_reef'  
+   'chordate' ;   'living_thing' ;   'albatross'  
+   'artifact' ;   'instrumentality' ;   'spider_web'  
+   'living_thing' ;   'echinoderm' ;   'sea_cucumber'  
+   'artifact' ;   'instrumentality' ;   'backpack'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'labrador_retriever'  
+   'food' ;  'pretzel'  
+   'chordate' ;   'living_thing' ;   'king_penguin'  
+   'arthropod' ;   'living_thing' ;   'sulphur_butterfly'  
+   'arthropod' ;   'living_thing' ;   'tarantula'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'lesser_panda'  
+   'artifact' ;   'instrumentality' ;   'pop_bottle'  
+   'natural_object' ;   'produce' ;   'plant_part' ;   'banana'  
+   'artifact' ;   'covering' ;   'clothing' ;   'sock'  
+   'arthropod' ;   'living_thing' ;   'cockroach'  
+   'artifact' ;   'instrumentality' ;   'projectile'  
+   'artifact' ;   'instrumentality' ;   'beer_bottle' 
+   'arthropod' ;   'living_thing' ;   'mantis'  
+   'artifact' ;   'instrumentality' ;   'freight_car'
+   'ingredient' ;  'food' ;  'guacamole'  
+   'artifact' ;   'instrumentality' ;   'remote_control'  
+   'chordate' ;   'living_thing' ;   'european_fire_salamander'  
+   'geological_formation' ;  'lakeside'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'chimpanzee'  
+   'artifact' ;   'instrumentality' ;   'pay-phone'  
+   'artifact' ;   'covering' ;   'clothing' ;   'fur_coat'  
+   'geological_formation' ;  'alp'  
+   'artifact' ;  'covering' ;  'lampshade'
+   'artifact' ;   'instrumentality' ;   'torch'  
+   'artifact' ;   'instrumentality' ;   'abacus' 
+   'artifact' ;   'instrumentality' ;   'moving_van'  
+   'artifact' ;   'instrumentality' ;   'barrel'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'tabby'  
+   'chordate' ;  'living_thing' ;  'goose'  
+   'mammal' ;   'living_thing';   'chordate' ;   'koala'  
+   'artifact' ;   'instrumentality' ;   'bullet_train'  
+   'artifact' ;   'instrumentality' ;   'cd_player'  
+   'artifact' ;   'instrumentality' ;   'teapot'  
+   'artifact' ;  'covering' ;  'birdhouse'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'gazelle'  
+   'artifact' ;   'covering' ;   'clothing' ;   'academic_gown'  
+   'artifact' ;   'instrumentality' ;   'tractor'  
+   'arthropod' ;   'living_thing' ;   'ladybug'  
+   'artifact' ;   'covering' ;   'clothing' ;   'miniskirt'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'golden_retriever'  
+   'artifact' ;   'structure' ;   'triumphal_arch'  
+   'artifact' ;   'instrumentality' ;   'cannon'  
+   'artifact' ;   'instrumentality' ;   'neck_brace'  
+   'artifact' ;   'covering' ;   'clothing' ;   'sombrero'  
+   'artifact' ;  'covering' ;  'gasmask'  
+   'artifact' ;   'instrumentality' ;   'candle'  
+   'artifact' ;   'instrumentality' ;   'desk'  
+   'artifact' ;   'instrumentality' ;   'frying_pan'  
+   'arthropod' ;  'living_thing' ;  'bee'  
+   'artifact' ;  'structure' ;  'dam'  
+   'arthropod' ;   'living_thing' ;   'spiny_lobster'  
+   'artifact' ;   'instrumentality' ;   'police_van'  
+   'artifact' ;   'instrumentality' ;   'ipod'  
+   'artifact' ;   'instrumentality' ;   'punching_bag'  
+   'artifact' ;  'structure' ;  'beacon'  
+   'living_thing' ;   'coelenterate' ;   'jellyfish'  
+   'artifact' ;  'instrumentality' ;  'wok'  
+   'artifact' ;   'instrumentality' ;   'potter's_wheel'  
+   'artifact' ;   'footwear' ;   'covering' ;   'sandal'  
+   'artifact' ;   'instrumentality' ;   'pill_bottle'  
+   'artifact' ;   'structure' ;   'butcher_shop'  
+   'living_thing' ;  'mollusk' ;  'slug.n.07'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'hog'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'cougar'
+   'artifact' ;   'instrumentality' ;   'crane'
+   'artifact' ;   'covering';   'clothing' ;   'vestment'  
+   'arthropod' ;   'living_thing' ;   'dragonfly'  
+   'artifact' ;   'instrumentality' ;   'cash_machine'  
+   'produce' ;  'mushroom'  
+   'artifact' ;   'instrumentality' ;   'jinrikisha'  
+   'artifact' ;   'instrumentality' ;   'water_tower' 
+   'artifact' ;   'instrumentality' ;   'chest'  
+   'artifact' ;   'instrumentality' ;   'snorkel'  
+   'artifact' ;   'instrumentality' ;   'sunglasses' 
+   'arthropod' ;  'living_thing' ;  'fly'  
+   'artifact' ;   'instrumentality' ;   'limousine'  
+   'chordate' ;   'living_thing' ;   'black_stork'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'dugong'  
+   'artifact' ;   'instrumentality' ;   'sports_car'  
+   'artifact' ;   'instrumentality' ;   'water_jug'  
+   'artifact' ;   'structure' ;   'suspension_bridge'
+   'mammal' ;   'living_thing' ;   'chordate' ;   'ox'  
+   'nutriment' ;  'food' ;  'ice_lolly'  
+   'artifact' ;  'structure' ;  'turnstile'
+   'artifact' ;   'covering' ;   'clothing' ;   'christmas_stocking'  
+   'artifact' ;   'instrumentality' ;   'broom'  
+   'arthropod' ;   'living_thing' ;   'scorpion' 
+   'artifact' ;   'instrumentality' ;   'wooden_spoon'  
+   'artifact' ;   'structure' ;   'picket_fence'  
+   'artifact' ;   'instrumentality' ;   'rugby_ball'  
+   'artifact' ;   'instrumentality' ;   'sewing_machine'  
+   'artifact' ;   'structure' ;   'steel_arch_bridge'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'persian_cat'  
+   'artifact' ;  'refrigerator'  
+   'artifact' ;  'structure' ;  'barn'  
+   'artifact' ;   'covering' ;   'clothing' ;   'apron'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'yorkshire_terrier'  
+   'artifact' ;   'covering' ;   'clothing' ;   'swimming_trunks'  
+   'artifact' ;   'instrumentality' ;   'stopwatch'  
+   'artifact' ;   'instrumentality' ;   'lawn_mower' 
+   'artifact' ;  'covering' ;  'thatch'  
+   'artifact' ;  'structure' ;  'fountain'  
+   'arthropod' ;   'living_thing' ;   'black_widow'  
+   'artifact' ;   'covering' ;   'clothing' ;   'bikini'  
+   'nutriment' ;  'food' ;  'plate'  
+   'artifact' ;  'plaything' ;  'teddy'  
+   'artifact' ;   'structure' ;   'barbershop'  
+   'artifact' ;   'structure' ;   'confectionery'  
+   'artifact' ;   'instrumentality' ;   'beach_wagon'  
+   'artifact' ;   'structure' ;   'scoreboard'  
+   'natural_object' ;   'produce' ;   'plant_part' ;   'orange'  
+   'artifact' ;   'instrumentality' ;   'flagpole'  
+   'arthropod' ;   'living_thing' ;   'american_lobster'  
+   'artifact' ;   'instrumentality' ;   'trolleybus'  
+   'artifact' ;   'instrumentality' ;   'drumstick'  
+   'artifact' ;   'instrumentality' ;   'dumbbell'  
+   'artifact' ;  'structure' ;  'brass'  
+   'artifact' ;   'covering' ;   'clothing' ;   'bow_tie'  
+   'artifact' ;   'instrumentality' ;   'convertible'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'bighorn'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'orangutan'
+   'living_thing' ;   'chordate' ;   'reptile' ;   'american_alligator'  
+   'arthropod' ;   'living_thing' ;   'centipede'  
+   'artifact' ;   'instrumentality' ;   'syringe'  
+   'artifact' ;   'instrumentality' ;   'go-kart'  
+   'living_thing' ;   'coelenterate' ;   'brain_coral'  
+   'living_thing' ;   'mollusk' ;   'sea_slug'  
+   'artifact' ;   'structure' ;   'cliff_dwelling'
+   'produce' ;  'food' ;  'mashed_potato'  
+   'artifact' ;  'structure' ;  'viaduct'  
+   'artifact' ;   'covering' ;   'clothing' ;   'military_uniform'  
+   'natural_object' ;   'produce' ;   'plant_part' ;   'pomegranate'
+   'artifact' ;   'instrumentality' ;   'chain'  
+   'artifact' ;   'covering' ;   'clothing' ;   'kimono'  
+   'artifact' ;   'instrumentality' ;   'product' ;   'comic_book'  
+   'arthropod' ;   'living_thing' ;   'trilobite'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'bison'  
+   'artifact' ;   'instrumentality' ;   'pole'  
+   'living_thing' ;   'chordate' ;   'reptile' ;   'boa_constrictor'  
+   'artifact' ;   'covering' ;   'clothing' ;   'poncho'  
+   'artifact' ;   'instrumentality' ;   'bathtub'  
+   'arthropod' ;   'living_thing' ;   'grasshopper'
+   'arthropod' ;   'living_thing' ;   'walking_stick'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'chihuahua'  
+   'chordate' ;   'living_thing' ;   'tailed_frog'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'lion'  
+   'artifact' ;  'structure' ;  'altar'  
+   'artifact' ;  'structure' ;  'obelisk'
+   'artifact' ;   'instrumentality' ;   'beaker'  
+   'produce' ;  'bell_pepper'  
+   'artifact' ;  'structure' ;  'bannister'  
+   'artifact' ;   'instrumentality' ;   'bucket'
+   'artifact' ;   'instrumentality' ;   'magnetic_compass'  
+   'nutriment' ;  'food' ;  'meat_loaf'  
+   'artifact' ;   'instrumentality' ;   'gondola'  
+   'mammal' ;   'living_thing' ;   'chordate' ;   'standard_poodle'  
+   'natural_object' ;   'plant_part' ;   'acorn'  
+   'artifact' ;   'instrumentality' ;   'lifeboat'
+   'artifact' ;   'instrumentality' ;   'binoculars'  
+   'produce' ;  'cauliflower'  
    'mammal' ;   'living_thing' ;   'chordate' ;   'african_elephant' 
