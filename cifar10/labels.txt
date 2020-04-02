@@ -1,6 +1,6 @@
 'airplane'; 'conveyance';'object'
 'car'; 'conveyance';'object'
-bird; 'aves';'mammal'
+'bird'; 'aves';'mammal'
 'cat';'mammal' ;   'living_thing' ;   'chordate' 
 'deer'; 'mammal' ;   'living_thing' ;   'chordate'
 'dog'; 'mammal' ;   'living_thing' ;   'chordate'
